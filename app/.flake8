@@ -1,5 +1,5 @@
 [flake8]
 exclude = 
   migrations,
-  __pycache,
+  __pycache__,
   settings.py
